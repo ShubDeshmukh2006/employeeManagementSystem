@@ -1,14 +1,7 @@
-# Employee Management System
+Employee Management System
 
 A comprehensive, full-stack web application for managing employees, departments, projects, and dependents. Built with Flask backend and vanilla HTML/CSS/JavaScript frontend, featuring an interactive dashboard with real-time analytics and CRUD operations.
 
----
-
-## 🎯 Overview
-
-This project demonstrates proficiency in full-stack web development, database design, and UI/UX implementation. It provides a complete HR management solution with a dark-themed, modern interface and responsive design.
-
----
 
 ## ✨ Key Features
 
