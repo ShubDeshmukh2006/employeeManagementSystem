@@ -185,7 +185,7 @@ The system uses SQLite with the following main tables:
 ## 👨‍💼 About
 
 **Developed by:** Shubham Deshmukh  
-**Purpose:** DBMS Lab Project  
+**Purpose:**  Mini Project 1 
 **Year:** 2026
 
 ---
